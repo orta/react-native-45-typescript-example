@@ -1,3 +1,5 @@
+// Taken directly from https://github.com/artsy/emission/blob/master/transformer/index.js
+
 "use strict"
 const path = require("path")
 const babel = require("babel-core")

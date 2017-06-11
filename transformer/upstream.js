@@ -1,3 +1,5 @@
+// Taken directly from https://github.com/artsy/emission/blob/master/transformer/upstream.js
+
 /**
  * Copyright (c) 2015-present, Facebook, Inc.
  * All rights reserved.
